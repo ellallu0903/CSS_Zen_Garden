@@ -7,7 +7,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-  background: url(./images/santa03.jpg) no-repeat center/cover;
+  background: url(../images/santa03.jpg) no-repeat center/cover;
   background-attachment: fixed;
   position: relative;
 }
@@ -192,7 +192,7 @@ a:hover {
   width: 50px;
   height: 50px;
   display: inline-block;
-  background-image: url(./images/html.png);
+  background-image: url(../images/html.png);
   background-size: 100%;
 }
 
@@ -201,7 +201,7 @@ a:hover {
   width: 50px;
   height: 50px;
   display: inline-block;
-  background-image: url(./images/css.png);
+  background-image: url(../images/css.png);
   background-size: 100%;
 }
 
@@ -210,7 +210,7 @@ a:hover {
   width: 50px;
   height: 50px;
   display: inline-block;
-  background-image: url(./images/license.png);
+  background-image: url(../images/license.png);
   background-size: 100%;
 }
 
@@ -219,7 +219,7 @@ a:hover {
   width: 50px;
   height: 50px;
   display: inline-block;
-  background-image: url(./images/web-site.png);
+  background-image: url(../images/web-site.png);
   background-size: 100%;
 }
 
@@ -228,7 +228,7 @@ a:hover {
   width: 50px;
   height: 50px;
   display: inline-block;
-  background-image: url(./images/github.png);
+  background-image: url(../images/github.png);
   background-size: 100%;
 }
 
@@ -236,7 +236,7 @@ a:hover {
 #wrapper {
   width: 100%;
   /* background: #373C38; */
-  background: url(./images/sidebar_sm.png) no-repeat center/cover;
+  background: url(../images/sidebar_sm.png) no-repeat center/cover;
 }
 
 #sidebar {
@@ -297,7 +297,7 @@ a:hover {
 
   .page-wrapper {
     height: 3900px;
-    background: url(./images/bg-9.jpg) no-repeat center;
+    background: url(../images/bg-9.jpg) no-repeat center;
   }
 
   /* section ----------------------------------------------------------------- */
@@ -319,7 +319,7 @@ a:hover {
   #zen-summary {
     height: 420px;
     width: 300px;
-    background: url(./images/bauble-4.png) no-repeat center/cover;
+    background: url(../images/bauble-4.png) no-repeat center/cover;
     transform: rotate(35deg);
     margin-top: 3rem;
     position: absolute;
@@ -360,7 +360,7 @@ a:hover {
   #zen-preamble {
     height: 650px;
     width: 480px;
-    background: url(./images/bauble-2.png) no-repeat center/cover;
+    background: url(../images/bauble-2.png) no-repeat center/cover;
     transform: rotate(-40deg);
     text-align: center;
     object-fit: cover;
@@ -422,7 +422,7 @@ a:hover {
     color: #0b346e;
     height: 846px;
     width: 758px;
-    background: url(./images/bauble-3.png) no-repeat center/cover;
+    background: url(../images/bauble-3.png) no-repeat center/cover;
     transform: rotate(40deg);
     position: absolute;
     top: 52%;
@@ -469,7 +469,7 @@ a:hover {
     color: #6a4028;
     height: 830px;
     width: 600px;
-    background: url(./images/bauble-7.png) no-repeat center/cover;
+    background: url(../images/bauble-7.png) no-repeat center/cover;
     transform: rotate(-35deg);
     position: absolute;
     top: 78%;
@@ -522,7 +522,7 @@ a:hover {
   #zen-benefits {
     height: 482px;
     width: 354px;
-    background: url(./images/bauble-1.png) no-repeat center/cover;
+    background: url(../images/bauble-1.png) no-repeat center/cover;
     transform: rotate(45deg);
     position: absolute;
     top: 123%;
@@ -564,7 +564,7 @@ a:hover {
     color: #fcfaf2;
     height: 1200px;
     width: 1200px;
-    background: url(./images/santa-1.png) no-repeat center/cover;
+    background: url(../images/santa-1.png) no-repeat center/cover;
     position: relative;
     top: 125%;
     left: -3%;
@@ -684,7 +684,7 @@ a:hover {
 
   #design-selection {
     width: 30%;
-    background: url(./images/sidebar_1.png) no-repeat;
+    background: url(../images/sidebar_1.png) no-repeat;
     background-size: 100%;
     background-position-y: 0px;
     color: white;
@@ -709,7 +709,7 @@ a:hover {
 
   #design-archives {
     width: 30%;
-    background: url(./images/sidebar_2.png) no-repeat;
+    background: url(../images/sidebar_2.png) no-repeat;
     background-position-y: -350px;
     background-size: 65%;
     color: white;
@@ -745,7 +745,7 @@ a:hover {
 
   #zen-resources {
     width: 40%;
-    background: url(./images/sidebar_3.png) no-repeat center;
+    background: url(../images/sidebar_3.png) no-repeat center;
     background-position-x: 300px;
     background-position-y: -400px;
     background-size: 55%;
@@ -786,7 +786,7 @@ a:hover {
   .extra2 {
     width: 244px;
     height: 544px;
-    background: url(./images/sidebar_4.png) no-repeat center/cover;
+    background: url(../images/sidebar_4.png) no-repeat center/cover;
     position: absolute;
     left: 56.5%;
     top: -20%;
